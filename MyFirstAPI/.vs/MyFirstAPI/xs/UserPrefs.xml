@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{7803D8B8-7835-44C5-8694-791337706C7F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MyFirstAPI PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/CustomerController.cs">
+    <Files>
+      <File FileName="appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Models/DbContext.cs" Line="1" Column="1" />
+      <File FileName="Models/Customer.cs" Line="1" Column="1" />
+      <File FileName="Properties/launchSettings.json" Line="16" Column="39" />
+      <File FileName="Controllers/CustomerController.cs" Line="22" Column="1" />
+      <File FileName="WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFirstAPI" expanded="True">
+            <Node name="MyFirstAPI" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" selected="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
