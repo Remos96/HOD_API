@@ -10,7 +10,6 @@ namespace MyFirstAPI.Models
         public int DOB { get; set; }
         public string Dragon { get; set; } = null!;
         public int HouseID { get; set; }
-        //public House House { get; set; }
     }
 }
 
